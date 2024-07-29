@@ -18,17 +18,16 @@ export default function App() {
         className="bg-contain bg-repeat"
         style={{ backgroundImage: "url('/image/asset 47.png')" }}
       >
-        <div className="w-[1000px] py-40 mx-auto flex">
-          <div className="w-[50%]">
+        <div className="w-[1000px] py-40 mx-auto flex flex-wrap">
+          <div className="md:w-[50%] w-[100%]">
             <div className="flex items-center gap-4">
-              <div className="w-14 h-[1px] bg-white"></div>
+              <div className="h-[1px] bg-white w-14"></div>
               <h1 className="font-poppins text-[#EE9D3A] text-sm tracking-[3px]">
                 KNOW US BETTER
               </h1>
             </div>
-            <h1 class="text-4xl font-bold  gradient-text pt-5 font-poppins">
-              Delivering Exceptional Technology Solutions for Seamless
-              Operations
+            <h1 class="md:text-4xl text-2xl  font-bold  gradient-text pt-5 font-poppins">
+              Delivering Exceptional Technology Solutions for Seamless Operations
             </h1>
           </div>
           <div className="w-[50%]">

@@ -10,6 +10,11 @@ export default {
       poppins: ['Poppins', 'sans-serif'],
       roboto: ['Roboto', 'sans-serif'],
     },
+    screens: {
+      sm: "426px",
+      md: "769px",
+      xl: "1280px",
+    }, 
   },
   plugins: [],
 }

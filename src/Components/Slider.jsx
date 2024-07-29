@@ -22,15 +22,15 @@ export default function Slider() {
           speed={1000}
         >
           <SwiperSlide
-            className="bg-cover bg-center w-full h-[85vh]"
+            className="bg-contain sm:bg-cover w-full sm:h-[85vh]  md:bg-cover h-[28vh] mt-16 bg-no-repeat sm:mt-0"
             style={{ backgroundImage: "url('/image/asset 1.jpeg')" }}
           ></SwiperSlide>
           <SwiperSlide
-            className="bg-cover bg-center w-full h-[85vh]"
+            className="bg-contain sm:bg-cover w-full sm:h-[85vh]  md:bg-cover h-[28vh] mt-16 bg-no-repeat sm:mt-0"
             style={{ backgroundImage: "url('/image/asset 2.jpeg')" }}
           ></SwiperSlide>
           <SwiperSlide
-            className="bg-cover bg-center w-full h-[85vh]"
+            className="bg-contain sm:bg-cover w-full sm:h-[85vh]  md:bg-cover h-[28vh] mt-16 bg-no-repeat sm:mt-0"
             style={{ backgroundImage: "url('/image/asset 3.jpeg')" }}
           ></SwiperSlide>
         </Swiper>
