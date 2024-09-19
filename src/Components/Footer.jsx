@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="w-[1100px] mx-auto py-5">
           <img
             className="w-[70px]"
-            src="./public/image/asset 38.png"
+            src="/image/asset 38.png"
             alt=""
           />
           <div className="flex gap-5 py-5">

@@ -15,7 +15,7 @@ export default function Header() {
       >
         <div className="w-[95%] h-[90px] mx-auto py-2 flex justify-between items-center">
           <div>
-            <img className="w-[70px]" src="./public/image/asset 0.png" alt="" />
+            <img className="w-[90px]" src="/image/asset 0.png" alt="" />
           </div>
           <div className="flex justify-center items-center gap-3 text-white">
             <GiHamburgerMenu />

@@ -54,17 +54,17 @@ export default function App() {
           <Card
             heading="CRM Services"
             paragraph="A full set of services to support your customer relationship management, business process automation, and more. Our team ensures your market success by providing a pathway toward consistent user experiences to boost customer satisfaction and loyalty."
-            img1="./public/image/asset 4.png"
+            img1="/image/asset 4.png"
           />
           <Card
             heading="Marketing Services"
             paragraph="With a strong set of marketing services to optimize your sales and revenue generation, the Alpha team helps you build a strong client community and maximize customer retention while attracting potential customers. Increased referral sources"
-            img1="./public/image/asset 5.png"
+            img1="/image/asset 5.png"
           />
           <Card
             heading="DevOps Services"
             paragraph="As a leading DeVOps service provider. we epower businesses to accelerate their dvelopment cycles. enhance collaboration, and achieve unparalleled efficiency in software delivery. With a commitment to innovation and seamless integration, we pave the way for your organization to thrive in the fast-paced world of modern technology."
-            img1="./public/image/asset 6.png"
+            img1="/image/asset 6.png"
           />
         </div>
       </div>
@@ -217,17 +217,17 @@ export default function App() {
         style={{ backgroundImage: "url('/image/asset 47.png')" }}
       >
         <div className="w-[1000px] mx-auto flex pb-40 justify-center items-center">
-          <Icon iconimg="./public/image/asset 30.png" icontext="Azemmi" />
-          <Icon iconimg="./public/image/asset 31.png" icontext="RUTI" />
-          <Icon iconimg="./public/image/asset 32.png" icontext="Sriek Ready" />
-          <Icon iconimg="./public/image/asset 33.png" icontext="Mochi" />
+          <Icon iconimg="/image/asset 30.png" icontext="Azemmi" />
+          <Icon iconimg="/image/asset 31.png" icontext="RUTI" />
+          <Icon iconimg="/image/asset 32.png" icontext="Sriek Ready" />
+          <Icon iconimg="/image/asset 33.png" icontext="Mochi" />
         </div>
         <div className="w-[1000px] mx-auto flex  justify-center items-center">
-          <Icon iconimg="./public/image/asset 34.png" icontext="AMICA ENERGY" />
-          <Icon iconimg="./public/image/asset 35.png" icontext="GNOMEN" />
-          <Icon iconimg="./public/image/asset 36.png" icontext="ISAP" />
+          <Icon iconimg="/image/asset 34.png" icontext="AMICA ENERGY" />
+          <Icon iconimg="/image/asset 35.png" icontext="GNOMEN" />
+          <Icon iconimg="/image/asset 36.png" icontext="ISAP" />
           <Icon
-            iconimg="./public/image/asset 37.png"
+            iconimg="/image/asset 37.png"
             icontext="WOOD FIRE PIZZA"
           />
         </div>
